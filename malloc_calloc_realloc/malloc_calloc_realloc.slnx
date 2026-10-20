@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="malloc_calloc_realloc/malloc_calloc_realloc.vcxproj" />
+  <Project Path="malloc_calloc_realloc/malloc_calloc_realloc.vcxproj" Id="a60f62a5-7aff-4a25-bd82-bdfa66452d2a" />
 </Solution>
